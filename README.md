@@ -1,4 +1,4 @@
-# spark-nlp
+# spark-nlp (Apache License Version 2.0)
 John Snow Labs Spark-NLP is a natural language processing library built on top of Apache Spark ML. It provides simple, performant & accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 # Project's website
